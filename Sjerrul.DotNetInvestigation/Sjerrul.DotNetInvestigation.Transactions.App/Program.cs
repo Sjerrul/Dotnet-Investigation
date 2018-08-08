@@ -6,6 +6,7 @@ namespace Sjerrul.DotNetInvestigation.Transactions.App
 {
     class Program
     {
+        //Reference: https://www.codeguru.com/csharp/.net/net_data/sortinganditerating/article.php/c10993/SystemTransactions-Implement-Your-Own-Resource-Manager.htm
         static void Main(string[] args)
         {
             Console.WriteLine();
