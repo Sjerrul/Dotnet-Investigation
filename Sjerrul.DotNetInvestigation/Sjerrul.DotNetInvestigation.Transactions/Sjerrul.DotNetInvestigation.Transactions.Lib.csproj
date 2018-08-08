@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Sjerrul.DotNetInvestigation.Transactions.Lib</AssemblyName>
+    <RootNamespace>Sjerrul.DotNetInvestigation.Transactions.Lib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
